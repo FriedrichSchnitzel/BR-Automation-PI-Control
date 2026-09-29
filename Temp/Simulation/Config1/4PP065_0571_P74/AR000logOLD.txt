@@ -1,0 +1,15 @@
+Tue Sep 15 15:10:29 2026
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Sep 15 15:10:29 2026
+No ARsim registration found!
+
+Tue Sep 15 15:10:29 2026
+InstanceName: 01dd450b33602a40
+
+Tue Sep 15 15:10:29 2026
+WorkingDirectory: C:\Users\admin\Desktop\Dvigatel_po_CO2\67\Temp\Simulation\Config1\4PP065_0571_P74\
+
+Tue Sep 15 15:10:29 2026
+COMMAND_COLDSTART
+
